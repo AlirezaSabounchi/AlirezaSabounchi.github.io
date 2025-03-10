@@ -2,9 +2,9 @@
 layout: post
 title: "AI Revolution in Drug Discovery: A Current Overview"
 subtitle: "How cutting-edge AI techniques are transforming pharmaceutical research (thumbnail by OpenMoji)"
-cover-img: /assets/img/ai-drug-discovery-thumb.png
+# cover-img: /assets/img/ai-drug-discovery-thumb.png
 thumbnail-img: /assets/img/ai-drug-discovery-thumb.png
-share-img: /assets/img/ai-drug-discovery-thumb.png
+# share-img: /assets/img/ai-drug-discovery-thumb.png
 tags: [AI, Drug Discovery, Research, Technology]
 author: Alireza Sabounchi
 date: 2025-01-8
