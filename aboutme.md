@@ -26,7 +26,7 @@ I am currently engrossed in writing my thesis on **protein-ligand affinity predi
 - **Programming Languages**: Python, R
 - **Machine Learning Frameworks**: PyTorch, scikit-learn
 - **Data Analysis Tools**: Pandas, NumPy, Matplotlib
-- **Molecular Modeling Software**: RDKit, Open Babel
+- **Molecular Modeling Tools**: RDKit, Open Babel, VMD, Spartan, Gaussian, Discovery Studio, AutoDock and More!
 
 ## 🌱 Learning Journey
 
