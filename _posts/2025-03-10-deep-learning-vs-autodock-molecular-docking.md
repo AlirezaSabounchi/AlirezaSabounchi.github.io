@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning Approaches vs. AutoDock: A New Era in Molecular Docking"
-subtitle: "Comparing Traditional Methods with Innovative Deep Learning Techniques for Molecular Docking"
+subtitle: "Comparing Traditional Methods with Innovative Deep Learning Techniques for Molecular Docking (thumbnail by Flaticon)"
 # cover-img: /assets/img/deep-learning-docking.png
 thumbnail-img: /assets/img/deep-learning-docking-thumb.png
 # share-img: /assets/img/deep-learning-docking-share.jpg
