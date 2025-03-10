@@ -7,18 +7,18 @@ layout: page
 
 ## Academic Achievements 🏆
 
-> **M.Sc in Bioinformatics:**  
-   Sharif University of Technology, 2022–Present 🔬  
-> **CE Master’s Entrance Exam (2022):**  
-   Top 4% ranking (72nd out of over 15,550 participants) 🎖️  
-> **FOE Certificate for Outstanding Performance (2018):**  
-   Ranked 4th out of 40 🥇  
-> **College of Survey Engineering Annual Award (2017):**  
-   Ranked 3rd out of 40 🏅  
-> **B.Sc in Survey Engineering:**  
-   University of Tehran, 2016–2021 📚  
-> **SAMPAD Admission (High School):**  
-   GPA: 19.39/20 (2012–2016) 🎓
+- **M.Sc in Bioinformatics:**  
+>  Sharif University of Technology, 2022–Present 🔬  
+- **CE Master’s Entrance Exam (2022):**  
+>  Top 4% ranking (72nd out of over 15,550 participants) 🎖️  
+- **FOE Certificate for Outstanding Performance (2018):**  
+>  Ranked 4th out of 40 🥇  
+- **College of Survey Engineering Annual Award (2017):**  
+>  Ranked 3rd out of 40 🏅  
+- **B.Sc in Survey Engineering:**  
+>  University of Tehran, 2016–2021 📚  
+- **SAMPAD Admission (High School):**  
+>  GPA: 19.39/20 (2012–2016) 🎓
 
 
 ## Coursera Courses 🔗
