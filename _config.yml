@@ -40,9 +40,9 @@ round-avatar: true
 social-network-links:
   email: "ali.sabounchi98@sharif.edu"
   rss: true
-  github: alisabounchi
-  medium: sabounchial
-  telegram: sabounchial
+  github: AlirezaSabounchi
+  medium: https://medium.com/@sabounchial
+  telegram: @sabounchial
 
 #  calendly: yourname
 #  mastodon: instance.url/@username
@@ -58,7 +58,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: no description lol
 
 ###########################
 # --- General options --- #
