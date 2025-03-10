@@ -1,16 +1,49 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Discover my journey in AI, medicine, and technology
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# 👋 Hello, I'm Alireza Sabounchi
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a graduate student at Sharif University of Technology, specializing in the intersection of artificial intelligence, medicine, and technology.
 
-What else do you need?
+## 🔬 Research Interests
 
-### My story
+- **Artificial Intelligence in Drug Design**: Leveraging deep learning techniques to revolutionize drug discovery and development processes.
+- **Protein-Ligand Interactions**: Predicting protein-ligand binding affinities using advanced computational models to aid in the identification of potential therapeutic compounds.
+- **Representation Learning**: Utilizing language models and chemical fingerprints to create meaningful representations of molecular structures for improved predictive modeling.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## 📚 Current Endeavors
+
+I am currently engrossed in writing my thesis on **protein-ligand affinity prediction using deep learning models**. My work involves:
+- Developing and refining neural network architectures to accurately predict binding affinities.
+- Exploring the integration of language models and chemical informatics to enhance molecular representations.
+- Applying representation learning techniques to capture intricate patterns in biochemical data.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Python, R
+- **Machine Learning Frameworks**: PyTorch, scikit-learn
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib
+- **Molecular Modeling Software**: RDKit, Open Babel
+
+## 🌱 Learning Journey
+
+I'm continually expanding my knowledge in:
+- **Advanced Deep Learning Techniques**: Such as attention mechanisms and graph neural networks.
+- **Computational Chemistry**: To better understand molecular interactions and properties.
+- **Bioinformatics**: Integrating biological data with computational methods for holistic research approaches.
+
+## 🤝 Collaboration Opportunities
+
+I'm keen to collaborate on projects that involve:
+- Developing AI-driven solutions for drug discovery and personalized medicine.
+- Creating open-source tools that facilitate computational biology research.
+- Exploring interdisciplinary applications of AI in healthcare and biotechnology.
+
+## 📫 Let's Connect
+
+- **Email**: [ali.sabounchi98@sharif.edu](mailto:ali.sabounchi98@sharif.edu)
+- **Telegram**: sabounchial
+- **Medium**: sabounchial
