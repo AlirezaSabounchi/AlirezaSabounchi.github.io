@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Welcome to my website!
+title: Welcome to my page!
 
 # Your name to show in the footer
 author: Alireza Sabounchi
@@ -21,10 +21,10 @@ author: Alireza Sabounchi
 
 navbar-links:
   "About Me": "aboutme"
-  Resources:
-    - "Beautiful Jekyll": "https://beautifuljekyll.com"
-    - "Learn markdown": "https://www.markdowntutorial.com/"
-  "Author's home": "https://github.com/alisabounchi"
+  #Resources:
+   # - "Beautiful Jekyll": "https://beautifuljekyll.com"
+   # - "Learn markdown": "https://www.markdowntutorial.com/"
+  "Author's home": "https://github.com/AlirezaSabounchi"
 
 ################
 # --- Logo --- #
