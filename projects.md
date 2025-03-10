@@ -16,7 +16,7 @@ layout: page
 ## Publications & Contributions 📚
 
 - **Machine Learning-based Methods for Data Imputation** (Medium, 2023) ✍️  
-  - [Imputation Method for Single-cell RNA-Seq Data](https://medium.com/@sabounchial/machine-learning-based-imputation-methods-for-single-cell-rna-seq-data-a94edebacef8)  
+  - [Imputation Methods for Single-cell RNA-Seq Data](https://medium.com/@sabounchial/machine-learning-based-imputation-methods-for-single-cell-rna-seq-data-a94edebacef8)  
   - [A Thorough Analysis of AutoImpute](https://medium.com/@sabounchial/a-thorough-analysis-of-autoimpute-autoencoder-based-imputation-of-single-cell-rna-seq-data-1-cf6ec064777)  
 
 
