@@ -24,21 +24,21 @@ layout: page
   - [Lasso (Statistics)](https://fa.wikipedia.org/wiki/%D9%84%D8%B3%D9%88)  
   - [Ridge Regression](https://fa.wikipedia.org/wiki/%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86_%D8%AE%D8%B7_%D8%A7%D9%84%D8%B1%D8%A3%D8%B3)
 
-## Teaching & Curriculum Development 🍎  
+## Teaching & Curriculum Development 🤓  
 
 - **[Deep Generative Models | Dr. Beigy](https://sharif.ir/~beigy/14022-40959.html) (Spring 2024 & 2025):**  
-  Created quizzes, assignments, and managed grading 🤓  
+  Created quizzes, assignments, and managed grading 📝
 
 - **[Structural Bioinformatics | Dr. Salehi](https://docs.ce.sharif.edu/course/40552) (Spring 2025):**  
   Designed quizzes, developed assignments, and handled grading 📝  
 
 - **[Artificial Intelligence | Dr. Rohban](https://sut-ai.github.io/) (Fall 2024-5):**  
-  Selected references for poster sessions/presentations and served on judging panels 🎤🏆  
+  Selected references for poster sessions/presentations and served on judging panels 📝  
 
 - **[Machine Learning | Dr. Sharifi-Zarchi](https://www.sharifml.ir/) (Fall 2024-5):**  
-  Picked references, designed lecture slides, and developed theoretical assignments 📊  
+  Picked references, designed lecture slides, and developed theoretical assignments 📝  
 
 - **[Computational Genomics | Dr. Motahari](https://sharif.edu/~motahari/pages.php/teaching/index.html) (Fall 2024-5):**  
-  Designed quizzes, crafted assignments, managed grading, and served as a judging panel member 🧬🎓  
+  Designed quizzes, crafted assignments, managed grading, and served as a judging panel member 📝  
 
 And MORE!
