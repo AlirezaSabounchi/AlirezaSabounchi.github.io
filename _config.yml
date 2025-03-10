@@ -39,10 +39,10 @@ round-avatar: true
 
 social-network-links:
   email: "ali.sabounchi98@sharif.edu"
-  rss: true
+  rss: false
   github: AlirezaSabounchi
   medium: https://medium.com/@sabounchial
-  telegram: @sabounchial
+  telegram: sabounchial
 
 #  calendly: yourname
 #  mastodon: instance.url/@username
