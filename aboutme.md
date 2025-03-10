@@ -41,9 +41,3 @@ I'm keen to collaborate on projects that involve:
 - Developing AI-driven solutions for drug discovery and personalized medicine.
 - Creating open-source tools that facilitate computational biology research.
 - Exploring interdisciplinary applications of AI in healthcare and biotechnology.
-
-## 📫 Let's Connect
-
-- **Email**: [ali.sabounchi98@sharif.edu](mailto:ali.sabounchi98@sharif.edu)
-- **Telegram**: sabounchial
-- **Medium**: sabounchial
