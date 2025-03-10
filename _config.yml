@@ -21,10 +21,10 @@ author: Alireza Sabounchi
 
 navbar-links:
   "About Me": "aboutme"
-  #Resources:
-   # - "Beautiful Jekyll": "https://beautifuljekyll.com"
-   # - "Learn markdown": "https://www.markdowntutorial.com/"
+  "Projects": "projects"
+  "Achievements": "achievements"
   "Author's home": "https://github.com/AlirezaSabounchi"
+
 
 ################
 # --- Logo --- #
