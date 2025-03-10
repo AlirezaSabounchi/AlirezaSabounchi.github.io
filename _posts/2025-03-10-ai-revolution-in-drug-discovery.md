@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/ai-drug-discovery-thumb.png
 share-img: /assets/img/ai-drug-discovery-thumb.png
 tags: [AI, Drug Discovery, Research, Technology]
 author: Alireza Sabounchi
-date: 2025-03-10
+date: 2025-01-8
 ---
 
 The rapid evolution of artificial intelligence is now at the heart of drug discovery. Innovative deep learning algorithms and advanced computational models are enabling researchers to predict protein–ligand interactions with unprecedented accuracy, streamlining the identification of potential therapeutic compounds.
