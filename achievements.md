@@ -23,11 +23,12 @@ layout: page
 
 ## 🌐 Language Proficiency
 
-- ![IR](https://img.shields.io/badge/-Persian_(Farsi)-green) Native
-- ![US](https://img.shields.io/badge/-English-blue) Proficient
-- ![DE](https://img.shields.io/badge/-German-yellow) Intermediate
-  - Obtained **ÖSD B1 & B2** Certificates 
+- ![IR](https://img.shields.io/badge/-Persian_(Farsi)-green) **Persian (Farsi)**: Native
+- ![US](https://img.shields.io/badge/-English-blue) **English**: Proficient
+- ![DE](https://img.shields.io/badge/-German-yellow) **German**: Intermediate
+  - Obtained **ÖSD B1 & B2 Certificates**
   - Achieved **TestDaF** TDN5 score
+
 
 
 ## Coursera Courses 🔗
