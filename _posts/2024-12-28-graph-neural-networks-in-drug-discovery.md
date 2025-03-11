@@ -24,7 +24,7 @@ GNNs are a class of deep learning models designed to operate on graph-structured
 
 ### Case Study: AtomNet
 
-One notable application of GNNs in drug discovery is AtomNet, a deep learning system that predicts bioactivity of small molecules for drug design. AtomNet was used to predict novel candidate biomolecules for disease targets such as the Ebola virus and multiple sclerosis. :contentReference[oaicite:0]{index=0}
+One notable application of GNNs in drug discovery is AtomNet, a deep learning system that predicts bioactivity of small molecules for drug design. AtomNet was used to predict novel candidate biomolecules for disease targets such as the Ebola virus.
 
 ### Advantages of GNNs
 
@@ -41,6 +41,4 @@ While GNNs offer significant advantages, challenges such as interpretability, co
 ### Conclusion
 
 Graph neural networks represent a transformative approach in drug discovery, enabling more precise modeling of molecular interactions and properties. As these models evolve, they are poised to accelerate the development of new therapeutics and enhance our understanding of complex biological systems.
-
-*Note: This post references AtomNet as an example of GNN application in drug discovery.*
 
