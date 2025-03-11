@@ -23,9 +23,9 @@ layout: page
 
 ## 🌐 Language Proficiency
 
-- 🇮🇷 ![IR](https://img.shields.io/badge/-Persian_(Farsi)-%23a0c4ff): Native
-- 🇺🇸 ![US](https://img.shields.io/badge/-English-darkblue): Proficient
-- 🇩🇪 ![DE](https://img.shields.io/badge/-German-darkyellow): Intermediate
+- 🇮🇷 ![IR](https://img.shields.io/badge/-Persian_(Farsi)-%23caffbf): Native
+- 🇺🇸 ![US](https://img.shields.io/badge/-English-%23a0c4ff): Proficient
+- 🇩🇪 ![DE](https://img.shields.io/badge/-German-%23fdffb6): Intermediate
   - Obtained **ÖSD B1 & B2 Certificates**
   - Achieved **TestDaF** TDN5 score
 
