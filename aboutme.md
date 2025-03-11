@@ -6,7 +6,10 @@ subtitle: My journey in the fields of AI, medicine and more!
 
 # 👋 Hello, I'm Alireza Sabounchi
 
-I'm a graduate student at Sharif University of Technology, currently specializing in bioinformatics. My academic journey began with a bachelor's in survey engineering; however, my passion for coding, biology, and chemistry inspired me to change course and pursue a field that perfectly blends these interests. Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you have any questions or if you'd like to discuss potential collaboration opportunities!
+I'm a graduate student at Sharif University of Technology, currently specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). My academic journey began with a bachelor's in [survey engineering](https://en.wikipedia.org/wiki/Surveying); however, my passion for coding, biology, and chemistry inspired me to change course and pursue a field that perfectly blends these interests.
+
+Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you have any questions or if you'd like to discuss potential collaboration opportunities.
+
 
 ## 🔬 Research Interests
 
