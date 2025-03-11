@@ -15,7 +15,7 @@ layout: page
 >  Ranked 4th out of 40 | 2018 
 - **College of Survey Engineering Annual Award** | Class of 2020  🎖️
 >  Ranked 3rd out of 40 | 2017
-- **B.Sc in Survey Engineering (Cum Laude)**  | Class of 2016 🎓
+- **B.Sc in Survey Engineering (Cum Laude)**  | Class of 2020 🎓
 >  University of Tehran | 2016–2021  
 - **[SAMPAD](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) High School Admission and Graduation (Magna Cum Laude)** | Class of 2016🎓
 >  GPA: 19.39/20 | 2012–2016
