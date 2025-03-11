@@ -23,7 +23,7 @@ layout: page
 
 ## 🌐 Language Proficiency
 
-- 🇮🇷 ![IR]([https://img.shields.io/badge/-Persian_(Farsi)-darkgreen](https://img.shields.io/badge/-Persian_(Farsi)-%23a0c4ff)): Native
+- 🇮🇷 ![IR](https://img.shields.io/badge/-Persian_(Farsi)-%23a0c4ff): Native
 - 🇺🇸 ![US](https://img.shields.io/badge/-English-darkblue): Proficient
 - 🇩🇪 ![DE](https://img.shields.io/badge/-German-darkyellow): Intermediate
   - Obtained **ÖSD B1 & B2 Certificates**
