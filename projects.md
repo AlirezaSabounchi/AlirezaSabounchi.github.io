@@ -15,12 +15,12 @@ layout: page
 
 ## Publications & Contributions 📚
 
-- **Machine Learning-based Methods for Data Imputation** (Medium, 2023) ✍️  
+- **Machine Learning-based Methods for Data Imputation (Medium, 2023)** ✍️  
   - [Imputation Methods for Single-cell RNA-Seq Data](https://medium.com/@sabounchial/machine-learning-based-imputation-methods-for-single-cell-rna-seq-data-a94edebacef8)  
   - [A Thorough Analysis of AutoImpute](https://medium.com/@sabounchial/a-thorough-analysis-of-autoimpute-autoencoder-based-imputation-of-single-cell-rna-seq-data-1-cf6ec064777)  
 
 
-- **Wikipedia Contributions (Farsi):**  ✍️
+- **Wikipedia Contributions (in Farsi):**  ✍️
   - [Lasso (Statistics)](https://fa.wikipedia.org/wiki/%D9%84%D8%B3%D9%88)  
   - [Ridge Regression](https://fa.wikipedia.org/wiki/%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86_%D8%AE%D8%B7_%D8%A7%D9%84%D8%B1%D8%A3%D8%B3)
 
