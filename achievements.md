@@ -7,17 +7,17 @@ layout: page
 
 ## Academic Achievements 🏆
 
-- **M.Sc in Bioinformatics (Summa Cum Laude)**  | class of 2022 🥇
+- **M.Sc in Bioinformatics (Summa Cum Laude)**  | Class of 2025 🥇
 >  Sharif University of Technology | 2022–Present   
 - **CE Master’s Entrance Exam**  🎖️
 >  Top 4% ranking (72nd out of over 15,550 participants) | 2022   
-- **FOE Certificate for Outstanding Performance** | class of 2016  🎖️
+- **FOE Certificate for Outstanding Performance** | Class of 2020  🎖️
 >  Ranked 4th out of 40 | 2018 
-- **College of Survey Engineering Annual Award** | class of 2016  🎖️
+- **College of Survey Engineering Annual Award** | Class of 2020  🎖️
 >  Ranked 3rd out of 40 | 2017
-- **B.Sc in Survey Engineering (Cum Laude)**  | class of 2016 🎓
+- **B.Sc in Survey Engineering (Cum Laude)**  | Class of 2016 🎓
 >  University of Tehran | 2016–2021  
-- **[SAMPAD](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) High School Admission and Graduation (Magna Cum Laude)**  🎓
+- **[SAMPAD](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) High School Admission and Graduation (Magna Cum Laude)** | Class of 2016🎓
 >  GPA: 19.39/20 | 2012–2016
 
 
