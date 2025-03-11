@@ -39,5 +39,3 @@ Future research aims to address these challenges by developing methods for data 
 
 Transformers hold significant promise in advancing molecular property prediction, offering a powerful tool for drug discovery and development. As research progresses, we can anticipate more robust and interpretable models that will further integrate AI into cheminformatics.
 
-*Note: This post is a general overview and does not reference specific studies or datasets.*
-
