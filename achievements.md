@@ -21,6 +21,15 @@ layout: page
 >  GPA: 19.39/20 (2012–2016) 🎓
 
 
+## 🌐 Language Proficiency
+
+- ![IR](https://img.shields.io/badge/-Persian_(Farsi)-green) Native
+- ![US](https://img.shields.io/badge/-English-blue) Proficient
+- ![DE](https://img.shields.io/badge/-German-yellow) Intermediate
+  - **ÖSD B1 & B2**: Successfully completed
+  - **TestDaF**: Achieved TDN5 score
+
+
 ## Coursera Courses 🔗
 
 - **Machine Learning Course:** [Certificate](https://www.coursera.org/share/41064d9212c0551665c19a73c05d0eb8) 🤖
