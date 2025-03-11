@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Discover my journey in AI, medicine, and technology
+subtitle: My journey in the fields of AI, medicine and more!
 ---
 
 # 👋 Hello, I'm Alireza Sabounchi
 
-I'm a graduate student at Sharif University of Technology, specializing in the intersection of artificial intelligence, medicine, and technology.
+I'm a graduate student at Sharif University of Technology. Below, you'll find an overview of my research and academic interests. Please feel free to contact me if you have any questions or would like to discuss potential collaboration opportunities!
 
 ## 🔬 Research Interests
 
-- **Artificial Intelligence in Drug Design**: Leveraging deep learning techniques to revolutionize drug discovery and development processes.
+- **Artificial Intelligence in Drug Design**: Leveraging deep learning techniques to revolutionize drug discovery and development end-to-end pipelines.
 - **Protein-Ligand Interactions**: Predicting protein-ligand binding affinities using advanced computational models to aid in the identification of potential therapeutic compounds.
 - **Representation Learning**: Utilizing language models and chemical fingerprints to create meaningful representations of molecular structures for improved predictive modeling.
 
@@ -23,7 +23,7 @@ I am currently engrossed in writing my thesis on **protein-ligand affinity predi
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, R (a little)
 - **Machine Learning Frameworks**: PyTorch, scikit-learn
 - **Data Analysis Tools**: Pandas, NumPy, Matplotlib
 - **Molecular Modeling Tools**: RDKit, Open Babel, VMD, Spartan, Gaussian, Discovery Studio, AutoDock and More!
@@ -41,3 +41,5 @@ I'm keen to collaborate on projects that involve:
 - Developing AI-driven solutions for drug discovery and personalized medicine.
 - Creating open-source tools that facilitate computational biology research.
 - Exploring interdisciplinary applications of AI in healthcare and biotechnology.
+
+Thank you! That's all (for now)
