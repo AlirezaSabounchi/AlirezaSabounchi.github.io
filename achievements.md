@@ -26,8 +26,8 @@ layout: page
 - ![IR](https://img.shields.io/badge/-Persian_(Farsi)-green) Native
 - ![US](https://img.shields.io/badge/-English-blue) Proficient
 - ![DE](https://img.shields.io/badge/-German-yellow) Intermediate
-  - **ÖSD B1 & B2**: Successfully completed
-  - **TestDaF**: Achieved TDN5 score
+  - Obtained **ÖSD B1 & B2** Certificates 
+  - Achieved **TestDaF** TDN5 score
 
 
 ## Coursera Courses 🔗
