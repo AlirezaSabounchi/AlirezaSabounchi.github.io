@@ -12,13 +12,13 @@ layout: page
 - **CE Master’s Entrance Exam (2022)**  
 >  Top 4% ranking (72nd out of over 15,550 participants) 🎖️  
 - **FOE Certificate for Outstanding Performance (2018)**  
->  Ranked 4th out of 40 🏅  
+>  Ranked 4th out of 40 (class of 2016) 🏅  
 - **College of Survey Engineering Annual Award (2017)**  
->  Ranked 3rd out of 40 🏅  
+>  Ranked 3rd out of 40 (class of 2016) 🏅  
 - **B.Sc in Survey Engineering (Cum Laude)**  
->  University of Tehran, 2016–2021 📚  
-- **[SAMPAD](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) Admission (High School)**  
->  GPA: 19.39/20 (2012–2016) 🎓
+>  University of Tehran, 2016–2021 🎓 
+- **[SAMPAD](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) High School Admission and Graduation (Magna Cum Laude)**  
+>  GPA: 19.39/20 (2012–2016)🎓
 
 
 ## 🌐 Language Proficiency
