@@ -9,8 +9,8 @@ layout: page
 
 - **M.Sc in Bioinformatics (Summa Cum Laude)**  | Class of 2025 🥇
 >  Sharif University of Technology | 2022–Present   
-- **CE Master’s Entrance Exam**  🎖️
->  Top 4% ranking (72nd out of over 15,550 participants) | 2022   
+- **Top 4% in Nationwide Master's Program Entrance Exam for Computer Engineering**  🎖️
+>  Ranked 72nd out of over 15,550 participants | 2022   
 - **FOE Certificate for Outstanding Performance** | Class of 2020  🎖️
 >  Ranked 4th out of 40 | 2018 
 - **College of Survey Engineering Annual Award** | Class of 2020  🎖️
