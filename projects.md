@@ -40,5 +40,3 @@ layout: page
 
 - **[Computational Genomics | Dr. Motahari](https://sharif.edu/~motahari/pages.php/teaching/index.html) (Fall 2024-5):**  
   Designed quizzes, crafted assignments, managed grading, and served as a judging panel member  
-
-And MORE!
