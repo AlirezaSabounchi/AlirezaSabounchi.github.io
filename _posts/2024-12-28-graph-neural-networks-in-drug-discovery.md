@@ -5,7 +5,7 @@ subtitle: "Leveraging Graph-Based Deep Learning for Pharmaceutical Innovation (t
 # cover-img: /assets/img/gnn_drug_discovery.png
 thumbnail-img: /assets/img/gnn_drug_discovery_thumb.png
 tags: [graph neural networks, drug discovery, deep learning, bioinformatics]
-author: Alireza Sabounchi
+author: Ali Reza Sabounchi
 ---
 
 The integration of graph neural networks (GNNs) into drug discovery processes has opened new avenues for understanding complex biochemical interactions. By modeling molecular structures as graphs, GNNs provide a framework to predict molecular properties, interactions, and potential therapeutic effects.
