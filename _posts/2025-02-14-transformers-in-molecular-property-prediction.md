@@ -5,7 +5,7 @@ subtitle: "Harnessing Transformer Architectures for Enhanced Molecular Analysis 
 # cover-img: /assets/img/transformers_molecular.png
 thumbnail-img: /assets/img/transformers_molecular_thumb.png
 tags: [transformers, molecular property prediction, deep learning, cheminformatics]
-author: Alireza Sabounchi
+author: Ali Reza Sabounchi
 ---
 
 The advent of transformer architectures has revolutionized various fields in natural language processing and computer vision. Recently, their application has extended into cheminformatics, particularly in predicting molecular properties. By treating molecular structures as sequences or graphs, transformers can learn intricate patterns that govern molecular behavior.
