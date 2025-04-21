@@ -6,7 +6,7 @@ subtitle: "How cutting-edge AI techniques are transforming pharmaceutical resear
 thumbnail-img: /assets/img/ai-drug-discovery-thumb.png
 # share-img: /assets/img/ai-drug-discovery-thumb.png
 tags: [AI, Drug Discovery, Research, Technology]
-author: Alireza Sabounchi
+author: Ali Reza Sabounchi
 date: 2025-01-8
 ---
 
