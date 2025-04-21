@@ -6,7 +6,7 @@ subtitle: "Comparing Traditional Methods with Innovative Deep Learning Technique
 thumbnail-img: /assets/img/deep-learning-docking-thumb.png
 # share-img: /assets/img/deep-learning-docking-share.jpg
 tags: [molecular docking, deep learning, AutoDock, computational chemistry, drug discovery]
-author: Alireza Sabounchi
+author: Ali Reza Sabounchi
 date: 2025-03-10
 ---
 
