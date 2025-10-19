@@ -1,3 +1,4 @@
+---
 layout: post
 title: "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking — short explainer"
 subtitle: "A simple, brief summary of what DiffDock does and why it mattered (thumbnail by Flaticon)"
@@ -12,7 +13,7 @@ author: Alireza Sabounchi
 date: 2025-10-19
 
 DiffDock is a generative model for molecular docking. Instead of searching or regressing a single pose, it samples many candidate ligand poses by running a learned reverse-diffusion process over translation, rotation and torsion degrees of freedom. 
-
+---
 
 How it works
 
