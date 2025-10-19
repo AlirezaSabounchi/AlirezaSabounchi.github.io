@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking — short explainer"
-subtitle: "A simple, brief summary of what DiffDock does and why it mattered (thumbnail by Flaticon)"
+subtitle: "A simple, brief summary of what DiffDock does and why it mattered (thumbnail from the original paper)"
 # cover-img: /assets/img/diffdock.png
-thumbnail-img: /assets/img/diffdock-thumb.png
+thumbnail-img: /assets/img/DiffDock-1.png
 # share-img: /assets/img/diffdock-share.jpg
 tags: [DiffDock, molecular docking, diffusion models, generative models]
 author: Alireza Sabounchi
