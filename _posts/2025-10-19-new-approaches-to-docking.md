@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DiffDock: short and sweet"
+title: "DiffDock: Short & Sweet"
 subtitle: "A simple, brief summary of what DiffDock does (thumbnail from the original paper)"
 # cover-img: /assets/img/diffdock.png
 thumbnail-img: /assets/img/DiffDock-1.png
