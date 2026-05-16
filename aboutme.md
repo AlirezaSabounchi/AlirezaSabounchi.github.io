@@ -1,28 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: My journey in the fields of AI, medicine and more!
+subtitle: My journey in the fields of AI, medicine and more! (WARNING: excessive rambling about things I find interesting)
 ---
 
-# 👋 Hello, I'm Alireza Sabounchi
-
-I'm a graduate student at Sharif University of Technology, currently specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). My academic journey began with a bachelor's in [survey engineering](https://en.wikipedia.org/wiki/Surveying); however, my passion for coding, biology, and chemistry inspired me to change course and pursue a field that perfectly blends these interests.
-
-Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you have any questions or if you'd like to discuss potential collaboration opportunities.
+Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you'd like to discuss potential collaboration opportunities, or you just want to talk!
 
 
-## 🔬 Research Interests
+## 📚 Current Work
 
-- **Artificial Intelligence in Drug Design**: Leveraging deep learning techniques to revolutionize drug discovery and developing end-to-end pipelines.
-- **Protein-Ligand Interactions**: Predicting protein-ligand binding affinities using advanced computational (in silico) models to aid in the identification of potential therapeutic compounds.
-- **Representation Learning**: Utilizing language models and chemical fingerprints to create meaningful representations of molecular structures for improved predictive modeling.
-
-## 📚 Current Endeavors
-
-I am currently engrossed in writing my thesis on **protein-ligand affinity prediction using deep learning models**. My work involves:
+My work (mostly) involves:
 - Developing and refining neural network architectures to accurately predict binding affinities.
-- Exploring the integration of language models and chemical informatics to enhance molecular representations.
-- Applying representation learning techniques to capture intricate patterns in molecular data.
+- Exploring the integration of language models and chemical informatics to enhance molecular representations. Simliar works include ChemBERTa and SweetTalk developed for glycans.
+- Applying representation learning techniques to capture intricate patterns in molecular data. I have worked on transformer-based embeddings in particular.
 
 ## 🛠️ Technical Skills
 
@@ -31,11 +21,6 @@ I am currently engrossed in writing my thesis on **protein-ligand affinity predi
 - **Data Analysis Tools**: Pandas, NumPy, Matplotlib
 - **Molecular Modeling Tools**: RDKit, Open Babel, VMD, Spartan, Gaussian, Discovery Studio, AutoDock and More!
 
-## 🌱 Learning Journey
-
-I'm continually expanding my knowledge in:
-- **Advanced Deep Learning Techniques**: Such as attention mechanisms, graph neural networks, and LLMs.
-- **Computational Chemistry and Cheminformatics**: To better understand molecular interactions and properties.
 
 ## 🤝 Collaboration Opportunities
 
