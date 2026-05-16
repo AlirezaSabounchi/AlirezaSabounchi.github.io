@@ -8,7 +8,7 @@ tags: [graph neural networks, drug discovery, deep learning, bioinformatics]
 author: Ali Reza Sabounchi
 ---
 
-It seems as though the topic of GNNs in drug discovey is as relevant as it was back in 2021 when I first became familiar with the topic myself, although is as been overshadowed by more recent, flashier cousins like LLMs and Diffusion models. Alas, the power of graphs in modeling chemical structures cannot be underestimaetd.
+The topic of GNNs in drug discovey is as relevant as it was back in 2021 when I first became familiar with the topic myself, although is as been overshadowed by more recent, flashier cousins like LLMs and Diffusion models. Alas, the power of graphs in modeling chemical structures cannot be underestimaetd.
 
 The integration of graph neural networks (GNNs) into drug discovery processes has surely opened new avenues for understanding complex biochemical interactions. By modeling molecular structures as graphs, GNNs can provide a framework to predict molecular properties, interactions, and potential therapeutic effects, all with respect to the chemical structure of the molecule, which may not be sufficiently utilized in other methods.
 
