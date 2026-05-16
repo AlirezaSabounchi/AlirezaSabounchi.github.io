@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My journey in the fields of AI, medicine and more! (WARNING: excessive rambling about things I find interesting)
+subtitle: My journey in the fields of AI, medicine and more! (WARNING! excessive rambling about things I find interesting)
 ---
 
 Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you'd like to discuss potential collaboration opportunities, or you just want to talk!
