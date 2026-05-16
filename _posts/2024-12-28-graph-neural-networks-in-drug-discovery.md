@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Graph Neural Networks in Drug Discovery"
-subtitle: "Leveraging Graph-Based Deep Learning for Pharmaceutical Innovation (thumbnail by IconScout)"
+subtitle: "Graph-Based Deep Learning for Pharmaceutical Innovation (thumbnail by IconScout)"
 # cover-img: /assets/img/gnn_drug_discovery.png
 thumbnail-img: /assets/img/gnn_drug_discovery_thumb.png
 tags: [graph neural networks, drug discovery, deep learning, bioinformatics]
