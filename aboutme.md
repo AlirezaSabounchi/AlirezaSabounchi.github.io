@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My journey in the field of Bioinformatics (includes rambling) 
+subtitle:
 ---
 
 Below, you'll find an overview of my research and academic pursuits. Please feel free to contact me if you'd like to discuss potential collaboration opportunities, or if you just want to talk!
